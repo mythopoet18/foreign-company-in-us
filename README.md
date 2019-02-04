@@ -10,4 +10,5 @@ EDGAR is the major source of data required by this project. (Supplementary marke
   EDGAR is free to access to the public. But the filing information is in the form of individual document, such as html file. 
   Who files EDGAR? "All companies, foreign and domestic, are required to file registration statements, periodic reports, and other forms electronically through EDGAR."(Quoted from SEC) Although small business is not usually required to file with SEC electronicly. Banks file with FDIC and other banking industry regulators. 
 
-Site Link: https://mythopoet18.github.io/foreign-company-in-us/
+Project Site Link: https://mythopoet18.github.io/foreign-company-in-us/
+EDGAR Search Link: https://www.sec.gov/edgar/searchedgar/companysearch.html
