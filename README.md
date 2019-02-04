@@ -1,4 +1,4 @@
-# Foreign companies in the US
+# Foreign Companies In The US
 
 What do foreign companies do in the US? Who are they? Which US markets are most inviting to foreigners?
 
@@ -9,3 +9,5 @@ Brief introduction of the datasource
 EDGAR is the major source of data required by this project. (Supplementary market and macroeconomic information comes from BLS and BEA.)
   EDGAR is free to access to the public. But the filing information is in the form of individual document, such as html file. 
   Who files EDGAR? "All companies, foreign and domestic, are required to file registration statements, periodic reports, and other forms electronically through EDGAR."(Quoted from SEC) Although small business is not usually required to file with SEC electronicly. Banks file with FDIC and other banking industry regulators. 
+
+Site Link: https://mythopoet18.github.io/foreign-company-in-us/
