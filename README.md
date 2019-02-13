@@ -5,7 +5,7 @@
   Yes. Among 36,136 companies register with SEC, there are 4,325 (<p style="color:red;">11.97% </p>) foreign companies.
 
 <b> Who are they? </b>
-<iframe width="7300" height="320" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/6.embed"></iframe>
+<iframe width="730" height="320" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/6.embed"></iframe>
 
 
 <b> What do foreign companies do in the US? </b>
