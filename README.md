@@ -1,6 +1,8 @@
+<script src="https://gist.github.com/andyferra/2554919.js"></script>
+
 # Foreign Companies In The US
 
-[<h2>Fun Fact</h2>](https://placehold.it/15/f03c15/000000?text=+) 
+## Fun Fact
 
 <b> Are there many foreign companies doing business in the US? </b> <br>
   Yes. Among 36,136 companies register with SEC, there are 4,325 ([11.97%](https://placehold.it/15/c5f015/000000?text=+)) foreign companies.
