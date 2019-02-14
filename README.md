@@ -39,7 +39,7 @@ Some people say:<br>
   <li>Growth rates</li>
   </ul>
   
-  Step 2: Compare portfolio with US-owned companies and portfolio with foreign-owned companies.
+  Step 2: Compare portfolio of US-owned companies with portfolio of foreign-owned companies.
   <ul type="disc">
   <li>Compare the mean of X:</li>
      <ul type="bullet">
