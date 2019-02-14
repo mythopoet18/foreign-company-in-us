@@ -75,4 +75,9 @@ adsh	tag	version	coreg	ddate	qtrs	uom	value	footnote<br>
 0001564590-18-026237	DeferredRevenue	us-gaap/2018		20180930	0	USD	9128000.0000	<br>
 ... <br>
 
+Goal: structured dataset<br>
+
+Firm  P/E<sub>t</sub>   EBITDA<sub>t</sub>   DilutedEPS<sub>t</sub>    ...   Industry   Sector   CountryOrigin   
+
+
 Project Site Link: https://mythopoet18.github.io/foreign-company-in-us/
