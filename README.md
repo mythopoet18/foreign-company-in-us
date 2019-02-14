@@ -2,14 +2,14 @@
 
 <h4> <i> Fun Fact </i> </h4>
 <b> Are there many foreign companies doing business in the US? </b> <br>
-  Yes. Among 36,136 companies register with SEC, there are 4,325 (11.97%) foreign companies.
+  Yes. Among 36,136 companies register with SEC, there are 4,325 (<p style="color:red;">11.97%</p>) foreign companies.
 
 <b> Who are they? </b>
 <iframe width="800" height="400" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/6.embed"></iframe>
 
 
 <b> What do foreign companies do in the US? </b>
-<iframe width="800" height="400" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/8.embed"></iframe>
+<iframe width="800" height="360" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/8.embed"></iframe>
 
 
 <h4> <i>The Question</i> </h4>
@@ -17,12 +17,12 @@ Should capital market investors moving from US owned business to foreign owned b
 
 
 Some answers:<br>
-  <ul type="circ">
-  Foreign IPOs are significantly more underpriced..Francis, Bill & Hasan, Iftekhar & Li, Feng. (2001). Underpricing of Foreign and Domestic IPOs in the U.S. Market: Empirical Evidence. Financial Markets, Institutions & Instruments. 10. 1 - 1. 10.1111/1468-0416.00040. 
+  <ul type="disc">
+  <li>Foreign IPOs are significantly more underpriced..<a href="https://www.researchgate.net/publication/229521875_Underpricing_of_Foreign_and_Domestic_IPOs_in_the_US_Market_Empirical_Evidence">Francis,Bill&Hasan,Iftekhar&Li,Feng.(2001).</a></li>
   
-  U.S. Stocks Are Dangerously Overvalued<a href="https://www.forbes.com/sites/jamesberman/2018/10/04/time-to-buy-the-emerging-markets/#2371a35960c2">...</a>
+  <li>U.S. Stocks Are Dangerously Overvalued<a href="https://www.forbes.com/sites/jamesberman/2018/10/04/time-to-buy-the-emerging-markets/#2371a35960c2">...read</a></li>
   
-  385 tax rules makes US-owned business more competitive than foreign-owned business<a href="https://www.brookings.edu/blog/up-front/2017/08/10/the-385-tax-rules-make-american-businesses-more-competitive-treasury-should-keep-them/">...</a>
+  <li>385 tax rules makes US-owned business more competitive than foreign-owned business<a href="https://www.brookings.edu/blog/up-front/2017/08/10/the-385-tax-rules-make-american-businesses-more-competitive-treasury-should-keep-them/">...read</a></li>
   </ul>
   
 
