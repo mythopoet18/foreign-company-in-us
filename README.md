@@ -1,8 +1,9 @@
 # Foreign Companies In The US
 
-< h2 style="color:RGB(220,20,60)" >Fun Fact</h2>
+[<h2>Fun Fact</h2>](https://placehold.it/15/f03c15/000000?text=+) 
+
 <b> Are there many foreign companies doing business in the US? </b> <br>
-  Yes. Among 36,136 companies register with SEC, there are 4,325 (<p style="color:RGB(220,20,60)">11.97%</p>) foreign companies.
+  Yes. Among 36,136 companies register with SEC, there are 4,325 ([11.97%](https://placehold.it/15/c5f015/000000?text=+)) foreign companies.
 
 <b> Who are they? </b>
 <iframe width="800" height="400" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/6.embed"></iframe>
@@ -11,12 +12,13 @@
 <b> What do foreign companies do in the US? </b>
 <iframe width="800" height="360" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/8.embed"></iframe>
 
+<iframe width="800" height="600" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/10.embed"></iframe>
 
-<h4> <i>The Question</i> </h4>
+[<h2> <i>The Question</h2>](https://placehold.it/15/f03c15/000000?text=+)
 Should capital market investors moving from US owned business to foreign owned business?
 
 
-Some answers:<br>
+Some peopely say:<br>
   <ul type="disc">
   <li>Foreign IPOs are significantly more underpriced..<a href="https://www.researchgate.net/publication/229521875_Underpricing_of_Foreign_and_Domestic_IPOs_in_the_US_Market_Empirical_Evidence">Francis,Bill&Hasan,Iftekhar&Li,Feng.(2001).</a></li>
   
@@ -26,10 +28,10 @@ Some answers:<br>
   </ul>
   
 
-My plan to answer the question:<br>
+[My plan](https://placehold.it/15/c5f015/000000?text=+)<br>
   A full spectrum financial statement analysis. 
 
-<h4> <i> Data</i> </h4>
+[<h2>Data</h2>](https://placehold.it/15/f03c15/000000?text=+)
 
 <a href="https://www.sec.gov/edgar/searchedgar/companysearch.html">EDGAR</a> is the major data source of this project. EDGAR is maintained by the Securities Exchange Committee, free to access to the public. According to SEC,<i> "All companies, foreign and domestic, are required to file registration statements, periodic reports, and other forms electronically through EDGAR."</i> Small business is not usually required to file with SEC electronicly. Banks file with FDIC and other banking industry regulators. 
 
