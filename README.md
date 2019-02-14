@@ -11,8 +11,8 @@
 
 <b> What do foreign companies do in the US? </b>
 <iframe width="800" height="360" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/8.embed"></iframe>
-
-<iframe width="800" height="600" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/10.embed"></iframe>
+<iframe width="800" height="580" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/12.embed"></iframe>
+<iframe width="800" height="580" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/10.embed"></iframe>
 
 ## The Question
 Should capital market investors moving from US-owned business to foreign-owned business? 
