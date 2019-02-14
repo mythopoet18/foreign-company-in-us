@@ -20,7 +20,7 @@ Should capital market investors moving from US-owned business to foreign-owned b
 
 Some people say:<br>
   <ul type="disc">
-  <li>Foreign IPOs are significantly more underpriced..<a href="https://www.researchgate.net/publication/229521875_Underpricing_of_Foreign_and_Domestic_IPOs_in_the_US_Market_Empirical_Evidence">Francis,Bill&Hasan,Iftekhar&Li,Feng.(2001).</a></li>
+  <li>Foreign IPOs are significantly more underpriced..<a href="https://www.researchgate.net/publication/229521875_Underpricing_of_Foreign_and_Domestic_IPOs_in_the_US_Market_Empirical_Evidence">Francis, Hasan and Li(2001)</a></li>
   
   <li>U.S. Stocks Are Dangerously Overvalued<a href="https://www.forbes.com/sites/jamesberman/2018/10/04/time-to-buy-the-emerging-markets/#2371a35960c2">...read</a></li>
   
