@@ -80,4 +80,5 @@ Goal: structured dataset<br>
 Firm | P/E<sub>t</sub> |  EBITDA<sub>t</sub> |  DilutedEPS<sub>t</sub>  |  ...  | Industry  | Sector |  CountryOrigin   
 
 
-Project Site Link: https://mythopoet18.github.io/foreign-company-in-us/
+## Project Site Link
+https://mythopoet18.github.io/foreign-company-in-us/
