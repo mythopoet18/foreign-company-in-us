@@ -53,7 +53,8 @@ Some people say:<br>
      <li>US-owned companies are cyclical; foreign-owned companies are non-cyclical</li>
      <li>US-owned companies are non-cyclical; foreign-owned companies are cyclical</li>
      </ul>  
-  <li>Estimate Stochastic Dominance. Literature: Kopa and Post(2009,2013), Post,Fang and Kopa(2015) test US market portfolio efficiency. </li>
+  <li>Estimate Stochastic Dominance between US-owned portfolio and foreign-owned portfolio.<br> 
+    <i>Literature: Kopa and Post(2009,2013), Post,Fang and Kopa(2015) test US market portfolio efficiency.</i> </li>
   </ul>
   
 [<h2>Data</h2>](https://placehold.it/15/f03c15/000000?text=+)
@@ -62,5 +63,16 @@ Some people say:<br>
 
 
 Financial statement (<a href="https://www.sec.gov/Archives/edgar/data/1639920/000156459019002688/ck0001639920-20f_20181231.htm#ITEM_8_INFORMATION_FINANCIAL">Sample 20-F form</a>): quarterly financial statement filing data from 2009Q1 to 2018Q4 (<a href="https:https://www.sec.gov/dera/data/financial-statement-data-sets.html">link</a>). The size of all text form data is 40G.
+
+
+Filing information example:<br>
+adsh	tag	version	coreg	ddate	qtrs	uom	value	footnote<br>
+0000107687-18-000026	EBITDA	0000107687-18-000026		20160831	4	USD	71943000.0000	<br>
+0000107687-18-000026	EBITDA	0000107687-18-000026		20170831	4	USD	157411000.0000	<br>
+0000107687-18-000026	EBITDA	0000107687-18-000026		20180831	4	USD	180063000.0000	<br>
+0000081362-18-000012	DeferredRevenue	us-gaap/2018		20171231	0	USD	1500000.0000	<br>
+0001564590-18-026237	DeferredRevenue	us-gaap/2018		20171231	0	USD	9374000.0000	<br>
+0001564590-18-026237	DeferredRevenue	us-gaap/2018		20180930	0	USD	9128000.0000	<br>
+... <br>
 
 Project Site Link: https://mythopoet18.github.io/foreign-company-in-us/
