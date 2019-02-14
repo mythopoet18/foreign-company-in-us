@@ -1,5 +1,3 @@
-<script src="https://gist.github.com/andyferra/2554919.js"></script>
-
 # Foreign Companies In The US
 
 ## Fun Fact
@@ -16,7 +14,7 @@
 
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/10.embed"></iframe>
 
-[<h2>The Question</h2>](https://placehold.it/15/f03c15/000000?text=+)
+## The Question
 Should capital market investors moving from US-owned business to foreign-owned business? 
 
 
@@ -59,7 +57,7 @@ Some people say:<br>
     <i>Literature: Kopa and Post(2009,2013), Post,Fang and Kopa(2015) test US market portfolio efficiency.</i> </li>
   </ul>
   
-[<h2>Data</h2>](https://placehold.it/15/f03c15/000000?text=+)
+## Data
 
 <a href="https://www.sec.gov/edgar/searchedgar/companysearch.html">EDGAR</a> is the major data source of this project. EDGAR is maintained by the Securities Exchange Committee, free to access to the public. According to SEC,<i> "All companies, foreign and domestic, are required to file registration statements, periodic reports, and other forms electronically through EDGAR."</i> Small business is not usually required to file with SEC electronicly. Banks file with FDIC and other banking industry regulators. 
 
