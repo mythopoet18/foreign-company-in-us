@@ -1,8 +1,8 @@
 # Foreign Companies In The US
 
-<h4> <i> Fun Fact </i> </h4>
+< h2 style="color:RGB(220,20,60)" >Fun Fact</h2>
 <b> Are there many foreign companies doing business in the US? </b> <br>
-  Yes. Among 36,136 companies register with SEC, there are 4,325 (<p style="color:red;">11.97%</p>) foreign companies.
+  Yes. Among 36,136 companies register with SEC, there are 4,325 (<p style="color:RGB(220,20,60)">11.97%</p>) foreign companies.
 
 <b> Who are they? </b>
 <iframe width="800" height="400" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/6.embed"></iframe>
