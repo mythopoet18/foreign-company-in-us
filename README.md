@@ -28,7 +28,7 @@ Some people say:<br>
   </ul>
   
 
-[My plan](https://placehold.it/15/c5f015/000000?text=+)<br>
+[My plan to answer the question](https://placehold.it/15/c5f015/000000?text=+)<br>
   Step 1: A full spectrum financial statement analysis to evaluate business risk and financial risk over time. Build structured panel dataset with following features (X):<br>
   <ul type="disc">
   <li>Earning: EPS, diluted EPS, Net Income, EBITDA</li>
