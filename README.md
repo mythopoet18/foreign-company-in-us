@@ -77,7 +77,7 @@ adsh	tag	version	coreg	ddate	qtrs	uom	value	footnote<br>
 
 Goal: structured dataset<br>
 
-Firm  P/E<sub>t</sub>   EBITDA<sub>t</sub>   DilutedEPS<sub>t</sub>    ...   Industry   Sector   CountryOrigin   
+Firm | P/E<sub>t</sub> |  EBITDA<sub>t</sub> |  DilutedEPS<sub>t</sub>  |  ...  | Industry  | Sector |  CountryOrigin   
 
 
 Project Site Link: https://mythopoet18.github.io/foreign-company-in-us/
