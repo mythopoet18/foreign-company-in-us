@@ -14,11 +14,11 @@
 
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/10.embed"></iframe>
 
-[<h2> <i>The Question</h2>](https://placehold.it/15/f03c15/000000?text=+)
-Should capital market investors moving from US owned business to foreign owned business?
+[<h2>The Question</h2>](https://placehold.it/15/f03c15/000000?text=+)
+Should capital market investors moving from US-owned business to foreign-owned business? 
 
 
-Some peopely say:<br>
+Some people say:<br>
   <ul type="disc">
   <li>Foreign IPOs are significantly more underpriced..<a href="https://www.researchgate.net/publication/229521875_Underpricing_of_Foreign_and_Domestic_IPOs_in_the_US_Market_Empirical_Evidence">Francis,Bill&Hasan,Iftekhar&Li,Feng.(2001).</a></li>
   
@@ -29,13 +29,38 @@ Some peopely say:<br>
   
 
 [My plan](https://placehold.it/15/c5f015/000000?text=+)<br>
-  A full spectrum financial statement analysis. 
-
+  Step 1: A full spectrum financial statement analysis to evaluate business risk and financial risk over time. Build structured panel dataset with following features (X):<br>
+  <ul type="disc">
+  <li>Earning: EPS, diluted EPS, Net Income, EBITDA</li>
+  <li>Leverage ratios: DOL,DFL,DTL</li>
+  <li>Working Capital: Current Ratio, turnovers</li>
+  <li>Risk: Credit risk, Liquidity risk</li>
+  <li>P/E ratio, growth of P/E ratio</li>
+  <li>Growth rates</li>
+  </ul>
+  
+  Step 2: Compare portfolio with US-owned companies and portfolio with foreign-owned companies.
+  <ul type="disc">
+  <li>Compare the mean of X:</li>
+     <ul type="bullet">
+     <li>H<sub>0</sub>: &mu;<sub>foreign</sub>=&mu;<sub>US</sub></li>
+     <li>H<sub>0</sub>: &mu;<sub>foreign</sub>>&mu;<sub>US</sub></li>
+     <li>H<sub>0</sub>: &mu;<sub>foreign</sub><&mu;<sub>US</sub></li>
+     </ul>   
+  <li>Test cyclical property: </li>
+     <ul type="bullet">
+     <li>Both US-owned and foreign-owned companies are cyclical/non-cyclical</li>
+     <li>US-owned companies are cyclical; foreign-owned companies are non-cyclical</li>
+     <li>US-owned companies are non-cyclical; foreign-owned companies are cyclical</li>
+     </ul>  
+  <li>Estimate Stochastic Dominance. Literature: Kopa and Post(2009,2013), Post,Fang and Kopa(2015) test US market portfolio efficiency. </li>
+  </ul>
+  
 [<h2>Data</h2>](https://placehold.it/15/f03c15/000000?text=+)
 
 <a href="https://www.sec.gov/edgar/searchedgar/companysearch.html">EDGAR</a> is the major data source of this project. EDGAR is maintained by the Securities Exchange Committee, free to access to the public. According to SEC,<i> "All companies, foreign and domestic, are required to file registration statements, periodic reports, and other forms electronically through EDGAR."</i> Small business is not usually required to file with SEC electronicly. Banks file with FDIC and other banking industry regulators. 
 
 
-Financial statement (<a href="https://www.sec.gov/Archives/edgar/data/1639920/000156459019002688/ck0001639920-20f_20181231.htm#ITEM_8_INFORMATION_FINANCIAL">Sample 20-F form</a>): I downloaded all the quarterly financial statement filing data from 2009Q1 to 2018Q4 (<a href="https:https://www.sec.gov/dera/data/financial-statement-data-sets.html">link</a>). The size of all text form data is 40G.
+Financial statement (<a href="https://www.sec.gov/Archives/edgar/data/1639920/000156459019002688/ck0001639920-20f_20181231.htm#ITEM_8_INFORMATION_FINANCIAL">Sample 20-F form</a>): quarterly financial statement filing data from 2009Q1 to 2018Q4 (<a href="https:https://www.sec.gov/dera/data/financial-statement-data-sets.html">link</a>). The size of all text form data is 40G.
 
 Project Site Link: https://mythopoet18.github.io/foreign-company-in-us/
