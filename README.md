@@ -82,4 +82,11 @@ Firm | P/E<sub>t</sub> |  EBITDA<sub>t</sub> |  DilutedEPS<sub>t</sub>  |  ...  
 
 
 ## Project Site Link
-https://mythopoet18.github.io/foreign-company-in-us/
+https://mythopoet18.github.io/foreign-company-in-us/ <br>
+
+###Fun Plot
+https://mythopoet18.github.io/foreign-company-in-us/plot1
+
+
+
+
