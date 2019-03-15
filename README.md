@@ -7,7 +7,7 @@
 
 <b> Who are they? </b>
 <iframe width="800" height="400" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/6.embed"></iframe>
-
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/6.embed"></iframe>
 Big names:  GOLDMAN SACHS BANK AG, Novartis, Spotify,Toyota
 
 <b> What do foreign companies do in the US? </b>
