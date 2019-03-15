@@ -7,7 +7,8 @@
 
 <b> Who are they? </b>
 <iframe width="800" height="400" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/6.embed"></iframe>
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/6.embed"></iframe>
+Also available at https://plot.ly/~mythopoet/6/
+
 Big names:  GOLDMAN SACHS BANK AG, Novartis, Spotify,Toyota
 
 <b> What do foreign companies do in the US? </b>
@@ -84,7 +85,7 @@ Firm | P/E<sub>t</sub> |  EBITDA<sub>t</sub> |  DilutedEPS<sub>t</sub>  |  ...  
 ## Project Site Link
 https://mythopoet18.github.io/foreign-company-in-us/ <br>
 
-###Fun Plot
+### Fun Plot
 https://mythopoet18.github.io/foreign-company-in-us/plot1
 
 
