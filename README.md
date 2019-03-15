@@ -6,7 +6,7 @@
   Yes. Among 36,136 companies register with SEC, there are 4,325 ([11.97%](https://placehold.it/15/c5f015/000000?text=+)) foreign companies.
 
 <b> Who are they? </b>
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/6.embed"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" src="//plot.ly/~mythopoet/6.embed"></iframe>
 
 Big names:  GOLDMAN SACHS BANK AG, Novartis, Spotify,Toyota
 
