@@ -1,9 +1,11 @@
 # Foreign Companies In The US
 
 ## Objective
+Financial analyst and regulators often rely on the ratio analysis to investigate a company. For example, the current ratio has to be above a certain threshold to be considered liquid.
 
 Among ```36,136``` SEC registered companies, ```4,325``` companies are foreign owned business. For example, GOLDMAN SACHS BANK AG, Novartis, Spotify,Toyota ...
 
+Foreign owned companies might do business in a different manner, that analysts may want to change the threshold for foreign owned companies.
 
 My goal is to compare the performance and capital governance of US-owned business with foreign-owned business and find out structural differences. 
 
