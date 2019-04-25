@@ -1,56 +1,43 @@
-# Foreign Companies In The US
+# Forecast Financial Ratios - An Alternative Approach
 
 ## Objective
 Financial analyst and regulators often rely on the ratio analysis to investigate a company. For example, the current ratio has to be above a certain threshold to be considered liquid.
 
-Among ```36,136``` SEC registered companies, ```4,325``` companies are foreign owned business. For example, GOLDMAN SACHS BANK AG, Novartis, Spotify,Toyota ...
+However, financial statements may not be available to invetors. This is not rare, especially among foreign companies and new comers. The end product of my project will be an app to predict financial ratios based on 
 
-Foreign owned companies might do business in a different manner, that analysts may want to change the threshold for foreign owned companies.
-
-My goal is to compare the performance and capital governance of US-owned business with foreign-owned business and find out structural differences. 
-
-```Expected results```<br>
-  <ul type="disc">
-  <li>Chinese-owned companies in X industry carry y% more cash comparing with US-owned companies.</li>
+ <ul type="disc">
+  <li>Company Name</li>
   
-  <li>Japanese-owned companies has higher kurtosis in term of operating profit margin.</li>
+  <li>Address</li>
   
-  <li>Swedish-owned companies are more sensitive to inflation then US companies.</li>
+  <li>Industry</li>
 </ul>
-  
 
-[My plan to answer the question](https://placehold.it/15/c5f015/000000?text=+)<br>
-  Step 1: A full spectrum financial statement analysis to evaluate business risk and financial risk over time. Build structured panel dataset with following features (X):<br>
+## Model
+### Label
+The ```Y``` variable is a set of financial ratios. 
+
+Computed from over ```80 million``` SEC financial statement filing entries, including ```36,136``` SEC registered companies, ranging from 2009 to 2019.
+
+### Categorical Features
+
+I extrated registration information from SEC filing, including
+
   <ul type="disc">
-  <li>Earning: EPS, diluted EPS, Net Income, EBITDA</li>
-  <li>Leverage ratios: DOL,DFL,DTL</li>
-  <li>Working Capital: Current Ratio, turnovers</li>
-  <li>Risk: Credit risk, Liquidity risk</li>
-  <li>P/E ratio, growth of P/E ratio</li>
-  <li>Growth rates</li>
+  <li>Company Name</li>
+  <li>Industry SIC code</li>
+  <li>Business Address</li>
+  <li>Mailing Address</li>
+  <li>Registration Address</li>
+  <li>Number of subordinate companies or associates</li>
+  <li>Size of the company</li>  
   </ul>
-  
-  Step 2: Compare portfolio of US-owned companies with portfolio of foreign-owned companies.
-  <ul type="disc">
-  <li>Compare the mean of X:</li>
-     <ul type="bullet">
-     <li>H<sub>0</sub>: &mu;<sub>foreign</sub>=&mu;<sub>US</sub></li>
-     <li>H<sub>0</sub>: &mu;<sub>foreign</sub>>&mu;<sub>US</sub></li>
-     <li>H<sub>0</sub>: &mu;<sub>foreign</sub><&mu;<sub>US</sub></li>
-     </ul>   
-  
-  <li>Compare distribution<br> 
-  
- Step 3: Construct time series sample to test sensitivity.
-  <li>Test cyclical property: </li>
-     <ul type="bullet">
-     <li>Both US-owned and foreign-owned companies are cyclical/non-cyclical</li>
-     <li>US-owned companies are cyclical; foreign-owned companies are non-cyclical</li>
-     <li>US-owned companies are non-cyclical; foreign-owned companies are cyclical</li>
-     </ul>  
-  </ul>
-  
-## Data
+
+### Sentiment Features
+
+Search company name in twitter to scrap comments. Then apply sentiment analysis to generate a company specific score using NLP.
+
+## SEC Filing Data
 
 <a href="https://www.sec.gov/edgar/searchedgar/companysearch.html">```EDGAR```</a> is the major data source of this project. EDGAR is maintained by the Securities Exchange Committee, free to access to the public. According to SEC,<i> "All companies, foreign and domestic, are required to file registration statements, periodic reports, and other forms electronically through EDGAR."</i> Small business is not usually required to file with SEC electronicly. Banks file with FDIC and other banking industry regulators. 
 
@@ -68,17 +55,7 @@ adsh	tag	version	coreg	ddate	qtrs	uom	value	footnote<br>
 0001564590-18-026237	DeferredRevenue	us-gaap/2018		20180930	0	USD	9128000.0000	<br>
 ... <br>
 
-I import text files to pandas DataFrame<br>
-
-Firm | P/E<sub>t</sub> |  EBITDA<sub>t</sub> |  DilutedEPS<sub>t</sub>  |  ...  | Industry  | Sector |  CountryOrigin   
-
-
 ## Project Site Link
 https://mythopoet18.github.io/foreign-company-in-us/ <br>
 
 ### Fun Plot
-https://mythopoet18.github.io/foreign-company-in-us/plot1
-
-
-
-
