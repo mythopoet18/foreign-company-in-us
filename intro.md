@@ -21,7 +21,7 @@ Computed from over ```80 million``` SEC financial statement filing entries, incl
 
 ### Categorical Features
 
-I extrated registration information from SEC filing, including
+```X1```: extract registration information from SEC filing, including
 
   <ul type="disc">
   <li>Company Name</li>
@@ -35,7 +35,7 @@ I extrated registration information from SEC filing, including
 
 ### Sentiment Features
 
-Search company name in twitter to scrap comments. Then apply sentiment analysis to generate a company specific score using NLP.
+```X2```: search company name in twitter to scrap comments. Then apply sentiment analysis to generate a company specific score using NLP.
 
 ## SEC Filing Data
 
